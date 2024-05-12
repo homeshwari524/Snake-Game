@@ -77,3 +77,6 @@ body,
 #logo{
     position:absolute;
 }
+.container{
+    position:relative;
+}
